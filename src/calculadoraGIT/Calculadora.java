@@ -2,7 +2,11 @@ package calculadoraGIT;
 
 public class Calculadora {
 
-		public int suma(int a, int b) {
+		public int sumar(int a, int b) {
 			return a+b;
 		}
+		public int restar(int a, int b) {
+			return a-b;
+		}
+		
 }
